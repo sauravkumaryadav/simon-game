@@ -30,7 +30,7 @@ This game is modeled of a very famous game i.e __SIMON__ . The game has four col
 
 # Website Link
 
-[Simon-Game]( https://sauravkumaryadav.github.io/simon-game/ "visit website)
+[Simon-Game]( https://sauravkumaryadav.github.io/simon-game/ "visit website")
 
 ---
 
